@@ -5,7 +5,7 @@ Version: The latest firmware -- 1.20B05 (Refer: [https://support.dlink.com/produ
 ![](./pics/1.png)
 ![](./pics/2.png)
 Vulnerability Type: Command Injection  
-Affected versions: DIR-878(newest), DIR-882(newest), DIR-867(newest)  
+Affected versions: DIR-878(v1.20b03_Hotfix & Below), DIR-882(v1.10b04 & Below), DIR-867(v1.10b04 & Below)  
 Author: c014 of sjtu  
 
  
